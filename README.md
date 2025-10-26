@@ -21,8 +21,8 @@ A multilingual web-based QR code generator built with PHP that supports Kazakh, 
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
-   cd qr_code_generator
+   git clone https://github.com/KadylBakyt/multilang-qr-code-generator.git
+   cd multilang-qr-code-generator
    ```
 
 2. **Install dependencies using Composer**
