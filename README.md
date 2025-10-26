@@ -2,6 +2,8 @@
 
 A multilingual web-based QR code generator built with PHP that supports Kazakh, English, Chinese, and Russian languages.
 
+<img width="1217" height="796" alt="image" src="https://github.com/user-attachments/assets/3491a7a4-52d1-4ef1-8b14-333ceca938d7" />
+
 ## Features
 
 - 🌍 **Multilingual Support**: Available in Kazakh (ҚАЗ), English (ENG), Chinese (中文), and Russian (РУС)
